@@ -20,4 +20,4 @@ This repo is to reflect the alterations made and to document my solution to this
 
 ## Credits
 
-I leaned on a great many resources during this challenge, as I am quite new to both coding and tech in general. Websites like [W3 Schools](https://www.w3schools.com), [MDN Web Docs](https://developer.mozilla.org) and just [Google](https://www.google.com) were invaluable when stuck. Not only for their direct resources, but by the very design of their pages and use of HTML and CSS.
+I leaned on a great many resources during this challenge, as I am quite new to both coding and tech in general. Websites like [W3 Schools](https://www.w3schools.com), [MDN Web Docs](https://developer.mozilla.org) and, of course, [Google](https://www.google.com) were invaluable when stuck. Not only for their direct resources, but by the very design of their pages and use of HTML and CSS.
